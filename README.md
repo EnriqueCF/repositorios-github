@@ -1,2 +1,1 @@
-# repositorios-github
-Repositorios en Github
+# Repositorios en Github
